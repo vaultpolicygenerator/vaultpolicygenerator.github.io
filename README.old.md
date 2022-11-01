@@ -1,1 +1,0 @@
-# vaultpolicygenerator.github.io
